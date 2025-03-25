@@ -1,13 +1,5 @@
 public class Main {
 
-    /* Implement your solution inside this method. */
-   public int handle(int[][] grid) {
-    // WRITE YOUR CODE HERE.
-
-     return -2;
-   }
-
-
     /*
      * *****************************************************************************
      * DO NOT EDIT THIS CODE.
@@ -30,7 +22,7 @@ public class Main {
             }
         }
         
-        int out = new Main().handle(grid);
+        int out = new Solution().handle(grid);
         System.out.println(out);
     }
 }

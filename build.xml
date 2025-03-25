@@ -1,7 +1,6 @@
 <project name="interview" default="dist" basedir=".">
   <!-- set global properties for this build -->
-  <property name="src" location="src/main/java" />
-  <property name="src-test" location="src/test/java" />
+  <property name="src" location="." />
   <property name="build" location="build/main" />
   <property name="build-test" location="build/test" />
   <property name="dist" location="dist" />
