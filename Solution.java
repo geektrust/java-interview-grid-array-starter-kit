@@ -8,6 +8,6 @@ public class Solution {
    */
   public int handle(int[][] grid) {
     // WRITE YOUR CODE HERE.
-    return -1;
+    return -2;
   }
 }
